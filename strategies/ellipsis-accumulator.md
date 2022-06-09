@@ -10,5 +10,5 @@ description: This is the first strategy of the cartel, used to gain EPX voting p
 
 **Step 3:** After a EPX vote takes place, all bribe rewards will be sold off to acquire more $EPX and $DDD tokens.
 
-**Step n**: The protocol repeats this for several weeks until it acquires a large treasury of EPX & DDD tokens.re
+**Step n**: The protocol repeats this for several weeks until it acquires a large treasury of EPX & DDD tokens.
 
